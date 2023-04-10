@@ -21,4 +21,4 @@ Google Calendar and Email API access must also be granted from your respective G
 1. [Google Calendar](https://developers.google.com/calendar/api/quickstart/python)
 2. [Email](https://sendgrid.com/solutions/email-api/)
 
-The DialogFlow Project is exported in a Zip file called [health2.0]https://github.com/ashishgeorge009/HealthDesk-VA/blob/main/health2.0.zip
+The DialogFlow Project is exported in a Zip file called [health2.0](https://github.com/ashishgeorge009/HealthDesk-VA/blob/main/health2.0.zip)

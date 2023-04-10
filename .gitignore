@@ -1,0 +1,20 @@
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+
+.DS_Store
+cached*
+ngrok
+private_key.json
+test.ipynbsendgrid.env
+sendgrid.env
+permissions.py
+~$Doctor_database.xlsx
+~$Appointment_database.xlsx
+~$Project Presentation.pptx
+Project Presentation.pptx
+credentials.json
+token.json
+voice.mp3
+quickstart.py
+API_KEY.txt
